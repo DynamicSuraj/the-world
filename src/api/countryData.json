@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": "2.96 crore",
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+  },
+  {
+    "id": 2,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "10.43 crore",
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 3,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "2.57 crore",
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": "21.40 crore",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "6.74 crore",
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "132.42 crore",
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometres."
+  },
+  {
+    "id": 7,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "144.42 crore",
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 8,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "142.86 crore",
+    "interestingFact": "India is the world's largest democracy and home to the ancient Indus Valley Civilization."
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "12.55 crore",
+    "interestingFact": "Japan is made up of over 6,800 islands and is known for its advanced technology and unique culture."
+  }
+]
